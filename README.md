@@ -1,7 +1,7 @@
 # Copy Bone Rotations
-Copy local rotation of connected bones.  
+Copy local rotation of connected bones. This addon can't handle a bone had two or more children.  
 
-親子関係のあるボーンのローカル回転をほかのボーンへコピーする。
+親子関係のあるボーンのローカル回転をほかのボーンへコピーする。ただしふたつ以上の子を持つボーンは処理できない。
 
 # How to use
 1. Select source bones
