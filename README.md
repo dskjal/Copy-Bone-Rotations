@@ -1,4 +1,4 @@
-# Copy-Bone-Rotations
+# Copy Bone Rotations
 Copy local rotation of connected bones.  
 
 親子関係のあるボーンのローカル回転をほかのボーンへコピーする。
