@@ -14,3 +14,5 @@ Copy local rotation of connected bones.
 1. プロパティパネルにある Copy ボタンを押す
 1. ペーストしたいボーンを選択する
 1. プロパティパネルにある Paste ボタンを押す
+
+![](https://github.com/dskjal/Copy-Bone-Rotations/blob/master/how-to-use.gif)
